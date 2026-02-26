@@ -56,6 +56,10 @@
 
 ###
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YovannyRn/YovannyRn/output/github-metrics.svg" alt="GitHub Metrics" width="800">
+</p>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Si%20lo%20puedes%20imaginar%20lo%20puedes%20programar!&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
