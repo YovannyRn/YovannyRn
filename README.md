@@ -57,7 +57,7 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YovannyRn/YovannyRn/output/github-metrics.svg" alt="GitHub Metrics" width="800">
+  <img src="https://raw.githubusercontent.com/YovannyRn/YovannyRn/output/metrics.svg" alt="GitHub Metrics" width="800">
 </p>
 
 <div>
