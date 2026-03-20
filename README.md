@@ -83,4 +83,4 @@
 
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Si%20lo%20puedes%20imaginar%20lo%20puedes%20programar!&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
-</div
+</div>
